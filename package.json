@@ -1,0 +1,19 @@
+{
+  "name": "achutendra-singh",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Achutendra singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^4.1.12",
+    "mongoose-auto-increment": "^5.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
